@@ -19,9 +19,11 @@ h3 {margin-left: 70%;
 
 h3 {padding-right: 40%;
 }
-.parte01{background-color: chartreuse;
+.parte01 {background-color: silver;
 }
-.parte02{background-color:cadetblue;
+
+.parte02 {background-color: thistle;
 }
-.parte03{background-color: thistle;
+
+.parte03 {background-color: rgb(#471d1d, #447044, #dba032);
 }
